@@ -14,3 +14,5 @@ Lista ordenada:
 Un libro en particular interesante por es autobiográfico y para "futuros escritores" es: [enlace en linea][https://www.casadellibro.com/libro-mientras-escribo/9788497597326/907511] 
 Según el propio autor >Si no tiene tiempo para leer, no tendrá el tiempo
 ni las herramientas necesarias para escribir> 
+(STHEPEN KING.JPG)
+
