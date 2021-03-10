@@ -23,5 +23,5 @@ Un libro en particular interesante por es autobiográfico y para "futuros escrit
 > Si no tiene tiempo para leer, no tendrá el tiempo
 ni las herramientas necesarias para escribir> 
 
-(STHEPEN KING.JPG)
+! (STHEPEN KING.JPG)
 
