@@ -23,5 +23,6 @@ Un libro en particular interesante por es autobiográfico y para "futuros escrit
 > Si no tiene tiempo para leer, no tendrá el tiempo
 ni las herramientas necesarias para escribir> 
 
-![Foto portada libro]
+![Foto portada libro](https://github.com/inmalv/inmalv.github.io/blob/main/STHEPEN%20KING.jpg)
+
 
