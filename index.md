@@ -1,6 +1,6 @@
  
  # LOS LIBROS MAS DE ACTUALIDAD QUE NUNCA DE STEPHEN KING
-# # El maestro del terror que se anticipó al futuro
+# #El maestro del terror que se anticipó al futuro
 
 ***LA ZONA MUERTA** Dónde la maldad está en un gobernador que quiere llegar a la Casa Blanca y que recuerda a Trump.
 
@@ -23,5 +23,5 @@ Un libro en particular interesante por es autobiográfico y para "futuros escrit
 > Si no tiene tiempo para leer, no tendrá el tiempo
 ni las herramientas necesarias para escribir> 
 
-! (STHEPEN KING.JPG)
+![Foto portada libro]
 
