@@ -18,7 +18,12 @@
 
 5.  *MISERY
 
-Un libro en particular interesante por es autobiográfico y para "futuros escritores" es: <https://www.casadellibro.com/libro-mientras-escribo/9788497597326/907511> 
+6.  *CELL
+
+
+`System.out.pintln;`
+
+Un libro en particular interesante ya que es autobiográfico y para "futuros escritores" es: <https://www.casadellibro.com/libro-mientras-escribo/9788497597326/907511> 
 
 > Si no tiene tiempo para leer, no tendrá el tiempo
 ni las herramientas necesarias para escribir
