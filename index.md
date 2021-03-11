@@ -27,7 +27,7 @@ Un libro en particular interesante ya que es autobiográfico y para "futuros esc
 > Si no tiene tiempo para leer, no tendrá el tiempo
 ni las herramientas necesarias para escribir
 
-![Foto portada libro](https://github.com/inmalv/inmalv.github.io/blob/main/descargar.jfif)
+![Foto portada libro](https://github.com/inmalv/inmalv.github.io/blob/main/descargar.jfif?raw=true)
 
 
 
